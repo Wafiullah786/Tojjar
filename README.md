@@ -47,15 +47,15 @@ TECHNOLOGIES & TOOLS USED
 
 CUSTOMER SIDE SCREENSHOTS
 
-<img src = "1.jpg" width ="300" /> <img src = "2.jpg" width ="300" /> <img src = "3.jpg" width ="300" /> <img src = "4.jpg" width ="300" /> <img src = "5.jpg" width ="300" /> <img src = "6.jpg" width ="300" /> <img src = "7.jpg" width ="300" /> <img src = "8.jpg" width ="300" /> <img src = "9.jpg" width ="300" /> <img src = "10.jpg" width ="300" /> 
+<img src = "1.jpg" width ="250" /> <img src = "2.jpg" width ="250" /> <img src = "3.jpg" width ="250" /> <img src = "4.jpg" width ="250" /> <img src = "5.jpg" width ="250" /> <img src = "6.jpg" width ="250" /> <img src = "7.jpg" width ="250" /> <img src = "8.jpg" width ="250" /> <img src = "9.jpg" width ="250" /> <img src = "10.jpg" width ="250" /> 
 
 DELIVERY PERSONAL SCREENSHOTS
 
-<img src = "111.jpeg" width ="300" /> <img src = "112.jpeg" width ="300" /> <img src = "113.jpeg" width ="300" /> <img src = "114.jpeg" width ="300" /> <img src = "115.jpeg" width ="300" /> <img src = "116.jpeg" width ="300" /> <img src = "117.jpeg" width ="300" /> <img src = "118.jpeg" width ="300" /> <img src = "119.jpeg" width ="300" /> <img src = "1110.jpeg" width ="300" /> <img src = "1111.jpeg" width ="300" /> <img src = "1112.jpeg" width ="300" /> <img src = "1113.jpeg" width ="300" /> <img src = "1114.jpeg" width ="300" /> <img src = "1115.jpeg" width ="300" /> <img src = "1116.jpeg" width ="300" /> <img src = "1117.jpeg" width ="300" /> <img src = "1118.jpeg" width ="300" /> <img src = "1119.jpeg" width ="300" /> 
+<img src = "111.jpeg" width ="250" /> <img src = "112.jpeg" width ="250" /> <img src = "113.jpeg" width ="250" /> <img src = "114.jpeg" width ="250" /> <img src = "115.jpeg" width ="250" /> <img src = "116.jpeg" width ="250" /> <img src = "117.jpeg" width ="250" /> <img src = "118.jpeg" width ="250" /> <img src = "119.jpeg" width ="250" /> <img src = "1110.jpeg" width ="250" /> <img src = "1111.jpeg" width ="250" /> <img src = "1112.jpeg" width ="250" /> <img src = "1113.jpeg" width ="250" /> <img src = "1114.jpeg" width ="250" /> <img src = "1115.jpeg" width ="250" /> <img src = "1116.jpeg" width ="250" /> <img src = "1117.jpeg" width ="250" /> <img src = "1118.jpeg" width ="250" /> <img src = "1119.jpeg" width ="250" /> 
 
 SALES AGENT APPLICATION SCREENSHOTS
 
-<img src = "21.jpeg" width ="300" /> <img src = "22.jpeg" width ="300" /> <img src = "23.jpeg" width ="300" /> <img src = "24a.jpeg" width ="300" /> <img src = "24b.jpeg" width ="300" /> <img src = "25.jpeg" width ="300" /> <img src = "26.jpeg" width ="300" /> <img src = "27.jpeg" width ="300" /> <img src = "28.jpeg" width ="300" /> <img src = "29.jpeg" width ="300" /> <img src = "210.jpeg" width ="300" /> <img src = "211.jpeg" width ="300" /> <img src = "212.jpeg" width ="300" /> <img src = "213.jpeg" width ="300" /> <img src = "214.jpeg" width ="300" /> 
+<img src = "21.jpeg" width ="250" /> <img src = "22.jpeg" width ="250" /> <img src = "23.jpeg" width ="250" /> <img src = "24a.jpeg" width ="250" /> <img src = "24b.jpeg" width ="250" /> <img src = "25.jpeg" width ="250" /> <img src = "26.jpeg" width ="250" /> <img src = "27.jpeg" width ="250" /> <img src = "28.jpeg" width ="250" /> <img src = "29.jpeg" width ="250" /> <img src = "210.jpeg" width ="250" /> <img src = "211.jpeg" width ="250" /> <img src = "212.jpeg" width ="250" /> <img src = "213.jpeg" width ="250" /> <img src = "214.jpeg" width ="250" /> 
 
 INSTALLATION LINKS:
 
