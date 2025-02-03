@@ -57,17 +57,6 @@ SALES AGENT APPLICATION SCREENSHOTS
 
 <img src = "21.jpeg" width ="250" /> <img src = "22.jpeg" width ="250" /> <img src = "23.jpeg" width ="250" /> <img src = "24a.jpeg" width ="250" /> <img src = "24b.jpeg" width ="250" /> <img src = "25.jpeg" width ="250" /> <img src = "26.jpeg" width ="250" /> <img src = "27.jpeg" width ="250" /> <img src = "28.jpeg" width ="250" /> <img src = "29.jpeg" width ="250" /> <img src = "210.jpeg" width ="250" /> <img src = "211.jpeg" width ="250" /> <img src = "212.jpeg" width ="250" /> <img src = "213.jpeg" width ="250" /> <img src = "214.jpeg" width ="250" /> 
 
-INSTALLATION LINKS:
-
-PLAY-STORE LINKS:
-
-Customer: https://play.google.com/store/apps/details?id=com.jmm.tojjar_delivery_app
-
-Sales Agent: https://play.google.com/store/apps/details?id=com.jmm.tujjar.tujjar_woocommerce&pli=1
-
-APP STORE LINKS:
-
-Delivery APP: https://apps.apple.com/us/app/tojjar-delivery-application/id6450411233
 
 
                                                               THANKS
